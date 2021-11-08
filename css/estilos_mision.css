@@ -1,0 +1,48 @@
+header{width:100%; display:table; background-color:#fde428; margin-bottom:20px;}
+#logo{float:left; font-size:24px; text-transform:uppercase; color:#002e5b; font-weight:600; padding:20px 0px;}
+nav{width:auto; float:right;}
+nav ul{display:table; float:right;}
+nav ul li{float:left;}
+nav ul li:last-child{padding-right:0px;}
+nav ul li a{color:#002e5b; font-size:18px; padding: 25px 20px; display:inline-block; transition: all 0.5s ease 0s;}
+nav ul li a:hover{background-color:#002e5b; color:#fde428; transition: all 0.5s ease 0s;}
+nav ul li a:hover i{color:#fde428; transition: all 0.5s ease 0s;}
+nav ul li a i{padding-right:10px; color:#002e5b; transition: all 0.5s ease 0s;}
+h3{
+    text-align: center;
+    color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    border: 2px solid black;
+    background: yellow;
+    padding: .5em;
+    text-decoration: none;
+    border-radius: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a:hover{
+    background: green;
+    color: yellow;
+    text-decoration: underline whitesmoke dashed;
+}
+.link_mision{
+    background: green;
+    color: yellow;
+
+}
+img{
+    float: right;
+}
+.container-letra{
+    font-family: 'Courier New', Courier, monospace;
+    background: whitesmoke;
+    width: 90%;
+    text-align: left;
+    float: right;
+    border-style: groove;
+}
+.izquierdo{
+    width: 8%;
+    display: inline-block;
+}
